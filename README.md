@@ -1,2 +1,3 @@
-# RN_03.1_Science_Navigator
-ReactNative Navigator Works
+# React Native Science (Navigator) Project
+</hr>
+<img src="./src/image/science.gif" alt="science" height=600 >
